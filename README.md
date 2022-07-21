@@ -30,5 +30,44 @@ vscode、visit studio 甚至连电脑自带文本编辑器都可以！
 
 结尾啦！ 找到源代码的文件夹 打开cmd 
 
-转到源代码的文件夹的路径 运行两个命令“cd （前面有个空格，输入源代码文件夹路径）”，“dotnet build”
+## 两方案任选一
+### 方案一
+运行两个命令“cd （前面有个空格，输入源代码文件夹路径）”，“dotnet build”
+### 方案二
+打开源代码文件夹，在路径这个框，写入“cmd” 再写出“dotnet build”。
+
+## 如果--编译成功：
+找到生成的dll，然后找到这个mod的网站。
+
+下载他的其他配件 把整个压缩包下载 例如
+[TheOtherRolesGM中下载的releases](https://github.com/haoming37/TheOtherRoles-GM-Haoming/releases) 中有
+
+|            下载地址的内容             | 
+| ------------------------------------| 
+| 可以直接放进AmongUs的mod压缩包         | 
+| 已编译源代码的dll                     | 
+| 源代码压缩包 zip格式   | 
+| 源代码压缩包 不同格式   | 
+
+
+编译完后的dll 下载上面表格的第一个东西
+
+放到 BepInEx/plugins （某些不一样）就可以放进你的amongus目录里
+
+ok！
+
+## 如果编译失败 
+那么恭喜你，你要问开发者。
+
+
+
+
+
+
+
+
+
+
+
+
 
