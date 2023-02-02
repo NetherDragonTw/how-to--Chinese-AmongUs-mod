@@ -62,7 +62,7 @@ ok！
 
 
 
-
+Do you know how to compile the source code for Town Of Host? I'm getting a lot of CS0246 error messages.
 
 
 
